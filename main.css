@@ -15,7 +15,7 @@ body {
 a {
   font-weight: bold
 }
-/* Style rules for links that apply to all anchor tags (<a> tags) but Not to anchor tags inside aside
+/* Style rules for links that apply to all anchor tags (<a> tags) butNot to anchor tags inside aside
 (ie,Not to anchor tags inside sidebar) */
 a:link:not(aside ul li a) {
   color: orange
@@ -81,7 +81,7 @@ header img {
   background-color: #000000;
   color: white;
 }
-  /* text or font color of current page (ie, link (anchor <a> tag) with class of "current"
+ /* text or font color of current page (ie, link (anchor <a> tag) with class of "current"
 in horizontal navigation bar*/
   color: orange;
 }
